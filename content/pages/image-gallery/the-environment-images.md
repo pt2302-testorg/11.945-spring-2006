@@ -19,4 +19,4 @@ uid: eaba43ea-3593-07a4-ef7e-8eddb84d8ff6
 {{< image-gallery-item href="88a06f84f779b85633bd9ba3a385e106_IMG_0026.jpg" data-ngdesc="The black mold grows in the drywall, which must be removed before the building can be inhabited again." text="The black mold grows in the drywall, which must be removed before the building can be inhabited again." >}}  
 {{< image-gallery-item href="6a9c4cb40b708ed18af9d6b5a348933c_IMG_0027.jpg" data-ngdesc="Even on upper floors, which didnt flood, mold grew to the ceiling, filling the building with its stench." text="Even on upper floors, which didnt flood, mold grew to the ceiling, filling the building with its stench." >}}  
 {{< image-gallery-item href="b50b7fe56cd6142a49bfdfdecf8beff9_IMG_0028.jpg" data-ngdesc="The class recommended that playgrounds be the first focus of environmental cleanup to protect returning children." text="The class recommended that playgrounds be the first focus of environmental cleanup to protect returning children." >}}  
-{{}}
+{{</ image-gallery >}}
