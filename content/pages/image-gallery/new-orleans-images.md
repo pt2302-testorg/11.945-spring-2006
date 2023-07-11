@@ -23,4 +23,4 @@ uid: 34813acf-eceb-18ad-c8f6-8484d9a7d88f
 {{< image-gallery-item href="5212fe36366b0cee7c31a853e07c494a_IMG_0034.jpg" data-ngdesc="Some areas of the city experienced little or no damage, including the area around Tulane University, in Uptown, New Orleans." text="Some areas of the city experienced little or no damage, including the area around Tulane University, in Uptown, New Orleans." >}}  
 {{< image-gallery-item href="875858508e5c62595b7bc7d03155587e_IMG_0035.jpg" data-ngdesc="Abandoned housing projects that experienced minimal damage, like this one, could provide temporary housing to returning residents." text="Abandoned housing projects that experienced minimal damage, like this one, could provide temporary housing to returning residents." >}}  
 {{< image-gallery-item href="681c28d2ba24ef2869c7b0cda86ad1b2_IMG_0036.jpg" data-ngdesc="Residents of the Lower Ninth Ward, which was essentially leveled during the storm, are still looking for answers." text="Residents of the Lower Ninth Ward, which was essentially leveled during the storm, are still looking for answers." >}}  
-{{}}
+{{</ image-gallery >}}
