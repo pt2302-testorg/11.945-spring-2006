@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on student project updates on environmental
   group and housing groups.
 file: /courses/11-945-katrina-practicum-spring-2006/01653e2b2dafeb745d1a237c2c1bf915_sess17.pdf
+file_size: 25892
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource contains information on student presentations on hous
   options and includes topics such as transitional housing, community land trusts,
   rental housing, limited equity co-ops and home ownership.
 file: /courses/11-945-katrina-practicum-spring-2006/a145e010d9b91dedddcb3a6573846029_sess7.pdf
+file_size: 61969
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics such as using surveys as
   a tol in the course, survey research methods, and preparing for research.
 file: /courses/11-945-katrina-practicum-spring-2006/56ab62cbb731f4731d6403b3949fc133_sess8.pdf
+file_size: 62418
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-945-katrina-practicum-spring-2006/dbbcb51d5cbeaddb315e0369ee567440_notripschedule.pdf
+file_size: 40282
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

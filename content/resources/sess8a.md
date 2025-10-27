@@ -4,6 +4,7 @@ description: This resource contains student presentationss from previous session
   and includes topics such as environmental analysis and regulations such as CERCLA-comprehensive
   environmental response, compensation, and liability act.
 file: /courses/11-945-katrina-practicum-spring-2006/a42efb13cbb8f59d998ed25c5084c7d8_sess8a.pdf
+file_size: 23448
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

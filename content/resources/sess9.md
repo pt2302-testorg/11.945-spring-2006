@@ -3,6 +3,7 @@ content_type: resource
 description: This resource conatins updates on topics such as housing group meeting,
   tulane architecture and information about student presentations.
 file: /courses/11-945-katrina-practicum-spring-2006/28f0c474a86a624722243d632885c573_sess9.pdf
+file_size: 35288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

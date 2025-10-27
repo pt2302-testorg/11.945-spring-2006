@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-945-katrina-practicum-spring-2006/745c4fe9f6a2ea0968057278e06c1e45_contextmap.pdf
+file_size: 849303
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

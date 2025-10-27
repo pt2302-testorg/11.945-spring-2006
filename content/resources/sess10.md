@@ -4,6 +4,7 @@ description: This resource contains update on presentations on housing group, pr
   housing presentation, potential strategies and difficulties, costs and financing
   and a summary.
 file: /courses/11-945-katrina-practicum-spring-2006/4226c0a8216fda75a4b7481033a13bcb_sess10.pdf
+file_size: 56550
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

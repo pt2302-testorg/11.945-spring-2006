@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on the environmental history of new
   orleans and work of the city centre.
 file: /courses/11-945-katrina-practicum-spring-2006/af8d12f3ef175a57e7488bd1feb214ca_sess5.pdf
+file_size: 47812
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
