@@ -2,27 +2,26 @@
 content_type: page
 description: This section contains a list of textbooks and journals related to the
   course and also a list of suggestion resources.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 617e21d4-2044-6e35-19d3-bd7e79136a28
 ---
+## Background Readings
 
-Background Readings
--------------------
+Eckstein, Barbara. *Sustaining New Orleans: Literature, Local Memory, and the Fate of the City*. New York, NY: Routledge, 2006. ISBN: 0415947839.
 
-Eckstein, Barbara. _Sustaining New Orleans: Literature, Local Memory, and the Fate of the City_. New York, NY: Routledge, 2006. ISBN: 0415947839.
+Kelman, Ari. *A River and its City: The Nature of Landscape in New Orleans*. Berkeley, CA: University of California Press, 2003. ISBN: 0520234324.
 
-Kelman, Ari. _A River and its City: The Nature of Landscape in New Orleans_. Berkeley, CA: University of California Press, 2003. ISBN: 0520234324.
+Hirsch, Arnold, and Joseph Logsdon, eds. *Creole New Orleans: Race and Americanization*. Baton Rouge, LA: Louisiana State University, 1992. ISBN: 0807117749.
 
-Hirsch, Arnold, and Joseph Logsdon, eds. _Creole New Orleans: Race and Americanization_. Baton Rouge, LA: Louisiana State University, 1992. ISBN: 0807117749.
+Lewis, Pierce. *New Orleans: The Making of an Urban Landscape*. Sante Fe, NM: Center for American Places, 2003. ISBN: 1930066104.
 
-Lewis, Pierce. _New Orleans: The Making of an Urban Landscape_. Sante Fe, NM: Center for American Places, 2003. ISBN: 1930066104.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/uneasy-alchemy) Allen, Barbara. [*Uneasy Alchemy: Citizens and Experts in Louisiana's Chemical Corridor Disputes*](https://mitpress.mit.edu/books/uneasy-alchemy). Cambridge, MA: MIT Press, 2003. ISBN: 0262012030.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/uneasy-alchemy) Allen, Barbara. [_Uneasy Alchemy: Citizens and Experts in Louisiana's Chemical Corridor Disputes_](https://mitpress.mit.edu/books/uneasy-alchemy). Cambridge, MA: MIT Press, 2003. ISBN: 0262012030.
-
-Smith, Neil. "[There's No Such Thing as a Natural Disaster](http://forums.ssrc.org/understandingkatrina/theres-no-such-thing-as-a-natural-disaster/)." _Understanding Katrina: Perspectives from the Social Sciences_. SSRC Forum. New York, NY: Social Science Research Council.
+Smith, Neil. "[There's No Such Thing as a Natural Disaster](http://forums.ssrc.org/understandingkatrina/theres-no-such-thing-as-a-natural-disaster/)." *Understanding Katrina: Perspectives from the Social Sciences*. SSRC Forum. New York, NY: Social Science Research Council.
 
 Amulya, Joy. "Summary of Critical Moments Reflection." Cambridge, MA: Center for Reflective Community Practice, MIT, 2005.
 
@@ -32,10 +31,9 @@ Amulya, Joy, Christie O'Campbell, Melissa Edoh, and Ceasar McDowell. "Transforma
 
 McDowell, Ceasar, Andrea Nagel, Susana Williams, and Claudia Canepa. "Building Knowledge From the Practice of Local Communities." Cambridge, MA: Center for Reflective Community Practice, MIT, 2006.
 
-Suggestion Resources
---------------------
+## Suggestion Resources
 
-[American Planning Association: APA's Response to the Devastation from Hurricane Katrina](https://www.planning.org/blog/blogpost/9148744/)
+[American Planning Association: APA's Response to the Devastation from Hurricane Katrina](https://web.archive.org/web/20220707024022/https://www.planning.org/blog/blogpost/9148744//)
 
 [Hurricane Digital Memory Bank: Preserving the Stories of Katrina, Rita, and Wilma](http://www.hurricanearchive.org/)
 
